@@ -1,0 +1,317 @@
+{
+  "id": "04-visioning-exercise",
+  "name": "Visioning Exercise",
+  "collection": "advancing-witches-craft",
+  "category": "visioning",
+  "total_duration_seconds": 1599.7,
+  "total_phrases": 159,
+  "tone": {
+    "energy": "high",
+    "warmth": "neutral-warm",
+    "formality": "guided",
+    "description": "Balanced guidance mixing instruction with descriptive elements"
+  },
+  "pacing": {
+    "avg_speaking_rate_wpm": 149,
+    "instruction_pause_seconds": 2.2,
+    "body_scan_pause_seconds": 8.0,
+    "countdown_pause_seconds": 2.9,
+    "act_boundaries": [
+      128.8,
+      210.9,
+      604.5,
+      630.7,
+      678.5,
+      689.6,
+      736.8,
+      771.7,
+      819.4,
+      883.9,
+      928.0,
+      958.0,
+      969.9,
+      1019.4,
+      1057.3,
+      1105.1,
+      1152.9,
+      1195.1,
+      1225.5,
+      1237.4,
+      1288.3,
+      1353.9,
+      1381.7,
+      1542.7,
+      1576.2
+    ],
+    "act_structure": {
+      "opening": {
+        "phrase_range": [
+          0,
+          18
+        ],
+        "duration_s": 128.8,
+        "percentage": 0.08
+      },
+      "deepening": {
+        "phrase_range": [
+          18,
+          31
+        ],
+        "duration_s": 82.1,
+        "percentage": 0.05
+      },
+      "body": {
+        "phrase_range": [
+          32,
+          85
+        ],
+        "duration_s": 393.6,
+        "percentage": 0.25
+      },
+      "return": {
+        "phrase_range": [
+          85,
+          85
+        ],
+        "duration_s": 26.2,
+        "percentage": 0.02
+      },
+      "closing": {
+        "phrase_range": [
+          86,
+          87
+        ],
+        "duration_s": 47.8,
+        "percentage": 0.03
+      },
+      "extra": {
+        "phrase_range": [
+          87,
+          87
+        ],
+        "duration_s": 11.1,
+        "percentage": 0.01
+      },
+      "act_6": {
+        "phrase_range": [
+          88,
+          91
+        ],
+        "duration_s": 47.2,
+        "percentage": 0.03
+      },
+      "act_7": {
+        "phrase_range": [
+          91,
+          92
+        ],
+        "duration_s": 34.9,
+        "percentage": 0.02
+      },
+      "act_8": {
+        "phrase_range": [
+          92,
+          93
+        ],
+        "duration_s": 47.7,
+        "percentage": 0.03
+      },
+      "act_9": {
+        "phrase_range": [
+          93,
+          97
+        ],
+        "duration_s": 64.5,
+        "percentage": 0.04
+      },
+      "act_10": {
+        "phrase_range": [
+          98,
+          99
+        ],
+        "duration_s": 44.1,
+        "percentage": 0.03
+      },
+      "act_11": {
+        "phrase_range": [
+          99,
+          100
+        ],
+        "duration_s": 30.0,
+        "percentage": 0.02
+      },
+      "act_12": {
+        "phrase_range": [
+          100,
+          101
+        ],
+        "duration_s": 11.9,
+        "percentage": 0.01
+      },
+      "act_13": {
+        "phrase_range": [
+          101,
+          102
+        ],
+        "duration_s": 49.5,
+        "percentage": 0.03
+      },
+      "act_14": {
+        "phrase_range": [
+          103,
+          104
+        ],
+        "duration_s": 37.9,
+        "percentage": 0.02
+      },
+      "act_15": {
+        "phrase_range": [
+          104,
+          105
+        ],
+        "duration_s": 47.8,
+        "percentage": 0.03
+      },
+      "act_16": {
+        "phrase_range": [
+          105,
+          108
+        ],
+        "duration_s": 47.8,
+        "percentage": 0.03
+      },
+      "act_17": {
+        "phrase_range": [
+          108,
+          109
+        ],
+        "duration_s": 42.2,
+        "percentage": 0.03
+      },
+      "act_18": {
+        "phrase_range": [
+          109,
+          109
+        ],
+        "duration_s": 30.4,
+        "percentage": 0.02
+      },
+      "act_19": {
+        "phrase_range": [
+          110,
+          110
+        ],
+        "duration_s": 11.9,
+        "percentage": 0.01
+      },
+      "act_20": {
+        "phrase_range": [
+          111,
+          113
+        ],
+        "duration_s": 50.9,
+        "percentage": 0.03
+      },
+      "act_21": {
+        "phrase_range": [
+          113,
+          119
+        ],
+        "duration_s": 65.6,
+        "percentage": 0.04
+      },
+      "act_22": {
+        "phrase_range": [
+          120,
+          120
+        ],
+        "duration_s": 27.8,
+        "percentage": 0.02
+      },
+      "act_23": {
+        "phrase_range": [
+          121,
+          153
+        ],
+        "duration_s": 161.0,
+        "percentage": 0.1
+      },
+      "act_24": {
+        "phrase_range": [
+          153,
+          157
+        ],
+        "duration_s": 33.5,
+        "percentage": 0.02
+      },
+      "act_25": {
+        "phrase_range": [
+          158,
+          159
+        ],
+        "duration_s": 23.5,
+        "percentage": 0.01
+      }
+    },
+    "gap_distribution": {
+      "short": {
+        "range": "0-2s",
+        "count": 103
+      },
+      "medium": {
+        "range": "2-5s",
+        "count": 26
+      },
+      "long": {
+        "range": "5-10s",
+        "count": 7
+      },
+      "act": {
+        "range": "10s+",
+        "count": 22
+      }
+    },
+    "avg_gap_seconds": 5.35,
+    "median_gap_seconds": 0.93,
+    "max_gap_seconds": 46.4,
+    "min_gap_seconds": 0.0
+  },
+  "language": {
+    "sentence_style": "descriptive-narrative",
+    "perspective": "second-person-guided",
+    "common_phrases": [
+      "thank you",
+      "relax your",
+      "you thank",
+      "source energy",
+      "comes to",
+      "thank you thank",
+      "you thank you",
+      "universal source energy",
+      "a deeper healthier",
+      "deeper healthier level"
+    ],
+    "structural_patterns": [
+      "deepening progression",
+      "relaxation cycles",
+      "numbered sequence",
+      "countdown element"
+    ],
+    "repetition_rate": 0.02,
+    "avg_sentence_length_words": 16.6,
+    "imperative_ratio": 0.18,
+    "total_sentences": 71
+  },
+  "trajectory": {
+    "opening": "Guided entry with relaxation induction",
+    "deepening": "Multi-phase deepening across 26 distinct sections",
+    "transitions": "Countdown-based transitions for deepening and return",
+    "deviation_handling": "Explicit attention redirection for wandering mind"
+  },
+  "binaural": {
+    "brainwave": "theta",
+    "carrier_freq_hz": 120,
+    "beat_freq_hz": 6.0,
+    "description": "Theta range (4-8 Hz) for deep meditation and visualization"
+  }
+}

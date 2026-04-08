@@ -1,0 +1,12 @@
+{
+  "id": "warm_storyteller",
+  "provider": "qwen3-tts",
+  "mode": "voice_clone",
+  "model": "qwen3-tts-vc",
+  "ref_audio": "voices/ref/warm_storyteller.wav",
+  "ref_text": "You feel yourself drifting here for a time, the mundane world melting away as you float downward into the twilight.",
+  "language": "English",
+  "description": "Warm, intimate storyteller voice for Shadow Realm journey meditations",
+  "sample_rate": 22050,
+  "created_at": "2026-04-08T00:00:00"
+}

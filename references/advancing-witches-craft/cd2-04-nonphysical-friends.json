@@ -1,0 +1,622 @@
+{
+  "id": "cd2-04-nonphysical-friends",
+  "name": "Nonphysical Friends",
+  "collection": "advancing-witches-craft",
+  "category": "guide-connection",
+  "total_duration_seconds": 2135.1,
+  "total_phrases": 122,
+  "tone": {
+    "energy": "high",
+    "warmth": "neutral",
+    "formality": "guided",
+    "description": "Balanced guidance mixing instruction with descriptive elements"
+  },
+  "pacing": {
+    "avg_speaking_rate_wpm": 233,
+    "instruction_pause_seconds": 21.8,
+    "body_scan_pause_seconds": 11.2,
+    "countdown_pause_seconds": 11.6,
+    "act_boundaries": [
+      16.1,
+      33.4,
+      55.8,
+      90.3,
+      135.2,
+      164.7,
+      195.2,
+      206.2,
+      236.2,
+      265.4,
+      295.9,
+      325.5,
+      357.0,
+      387.0,
+      416.8,
+      447.1,
+      477.3,
+      507.1,
+      562.0,
+      714.1,
+      753.0,
+      773.7,
+      806.2,
+      835.2,
+      872.1,
+      911.6,
+      953.5,
+      1009.0,
+      1035.2,
+      1057.3,
+      1087.5,
+      1125.0,
+      1161.2,
+      1193.2,
+      1221.4,
+      1310.4,
+      1362.0,
+      1431.5,
+      1465.6,
+      1514.5,
+      1548.5,
+      1577.9,
+      1606.8,
+      1638.4,
+      1667.5,
+      1696.8,
+      1727.5,
+      1816.3,
+      1833.8,
+      1861.2,
+      1894.7,
+      1984.3,
+      2009.2,
+      2027.6,
+      2038.5,
+      2053.3,
+      2063.2,
+      2079.3,
+      2118.1
+    ],
+    "act_structure": {
+      "opening": {
+        "phrase_range": [
+          0,
+          1
+        ],
+        "duration_s": 6.9,
+        "percentage": 0.0
+      },
+      "deepening": {
+        "phrase_range": [
+          2,
+          3
+        ],
+        "duration_s": 17.3,
+        "percentage": 0.01
+      },
+      "body": {
+        "phrase_range": [
+          4,
+          4
+        ],
+        "duration_s": 22.4,
+        "percentage": 0.01
+      },
+      "return": {
+        "phrase_range": [
+          5,
+          5
+        ],
+        "duration_s": 34.5,
+        "percentage": 0.02
+      },
+      "closing": {
+        "phrase_range": [
+          6,
+          7
+        ],
+        "duration_s": 44.9,
+        "percentage": 0.02
+      },
+      "extra": {
+        "phrase_range": [
+          7,
+          7
+        ],
+        "duration_s": 29.5,
+        "percentage": 0.01
+      },
+      "act_6": {
+        "phrase_range": [
+          8,
+          9
+        ],
+        "duration_s": 30.5,
+        "percentage": 0.01
+      },
+      "act_7": {
+        "phrase_range": [
+          9,
+          10
+        ],
+        "duration_s": 11.0,
+        "percentage": 0.01
+      },
+      "act_8": {
+        "phrase_range": [
+          10,
+          11
+        ],
+        "duration_s": 30.0,
+        "percentage": 0.01
+      },
+      "act_9": {
+        "phrase_range": [
+          11,
+          11
+        ],
+        "duration_s": 29.2,
+        "percentage": 0.01
+      },
+      "act_10": {
+        "phrase_range": [
+          12,
+          13
+        ],
+        "duration_s": 30.5,
+        "percentage": 0.01
+      },
+      "act_11": {
+        "phrase_range": [
+          13,
+          13
+        ],
+        "duration_s": 29.6,
+        "percentage": 0.01
+      },
+      "act_12": {
+        "phrase_range": [
+          14,
+          15
+        ],
+        "duration_s": 31.5,
+        "percentage": 0.01
+      },
+      "act_13": {
+        "phrase_range": [
+          15,
+          16
+        ],
+        "duration_s": 30.0,
+        "percentage": 0.01
+      },
+      "act_14": {
+        "phrase_range": [
+          16,
+          16
+        ],
+        "duration_s": 29.8,
+        "percentage": 0.01
+      },
+      "act_15": {
+        "phrase_range": [
+          17,
+          18
+        ],
+        "duration_s": 30.3,
+        "percentage": 0.01
+      },
+      "act_16": {
+        "phrase_range": [
+          18,
+          19
+        ],
+        "duration_s": 30.2,
+        "percentage": 0.01
+      },
+      "act_17": {
+        "phrase_range": [
+          19,
+          19
+        ],
+        "duration_s": 29.8,
+        "percentage": 0.01
+      },
+      "act_18": {
+        "phrase_range": [
+          20,
+          23
+        ],
+        "duration_s": 54.9,
+        "percentage": 0.03
+      },
+      "act_19": {
+        "phrase_range": [
+          23,
+          33
+        ],
+        "duration_s": 152.1,
+        "percentage": 0.07
+      },
+      "act_20": {
+        "phrase_range": [
+          33,
+          35
+        ],
+        "duration_s": 38.9,
+        "percentage": 0.02
+      },
+      "act_21": {
+        "phrase_range": [
+          36,
+          36
+        ],
+        "duration_s": 20.7,
+        "percentage": 0.01
+      },
+      "act_22": {
+        "phrase_range": [
+          37,
+          38
+        ],
+        "duration_s": 32.5,
+        "percentage": 0.02
+      },
+      "act_23": {
+        "phrase_range": [
+          38,
+          38
+        ],
+        "duration_s": 29.0,
+        "percentage": 0.01
+      },
+      "act_24": {
+        "phrase_range": [
+          39,
+          42
+        ],
+        "duration_s": 36.9,
+        "percentage": 0.02
+      },
+      "act_25": {
+        "phrase_range": [
+          42,
+          48
+        ],
+        "duration_s": 39.5,
+        "percentage": 0.02
+      },
+      "act_26": {
+        "phrase_range": [
+          48,
+          51
+        ],
+        "duration_s": 41.9,
+        "percentage": 0.02
+      },
+      "act_27": {
+        "phrase_range": [
+          51,
+          52
+        ],
+        "duration_s": 55.5,
+        "percentage": 0.03
+      },
+      "act_28": {
+        "phrase_range": [
+          52,
+          54
+        ],
+        "duration_s": 26.2,
+        "percentage": 0.01
+      },
+      "act_29": {
+        "phrase_range": [
+          54,
+          56
+        ],
+        "duration_s": 22.1,
+        "percentage": 0.01
+      },
+      "act_30": {
+        "phrase_range": [
+          56,
+          58
+        ],
+        "duration_s": 30.2,
+        "percentage": 0.01
+      },
+      "act_31": {
+        "phrase_range": [
+          59,
+          62
+        ],
+        "duration_s": 37.5,
+        "percentage": 0.02
+      },
+      "act_32": {
+        "phrase_range": [
+          62,
+          63
+        ],
+        "duration_s": 36.2,
+        "percentage": 0.02
+      },
+      "act_33": {
+        "phrase_range": [
+          63,
+          64
+        ],
+        "duration_s": 32.0,
+        "percentage": 0.01
+      },
+      "act_34": {
+        "phrase_range": [
+          64,
+          64
+        ],
+        "duration_s": 28.2,
+        "percentage": 0.01
+      },
+      "act_35": {
+        "phrase_range": [
+          65,
+          69
+        ],
+        "duration_s": 89.0,
+        "percentage": 0.04
+      },
+      "act_36": {
+        "phrase_range": [
+          69,
+          71
+        ],
+        "duration_s": 51.6,
+        "percentage": 0.02
+      },
+      "act_37": {
+        "phrase_range": [
+          71,
+          75
+        ],
+        "duration_s": 69.5,
+        "percentage": 0.03
+      },
+      "act_38": {
+        "phrase_range": [
+          75,
+          77
+        ],
+        "duration_s": 34.1,
+        "percentage": 0.02
+      },
+      "act_39": {
+        "phrase_range": [
+          77,
+          83
+        ],
+        "duration_s": 48.9,
+        "percentage": 0.02
+      },
+      "act_40": {
+        "phrase_range": [
+          83,
+          84
+        ],
+        "duration_s": 34.0,
+        "percentage": 0.02
+      },
+      "act_41": {
+        "phrase_range": [
+          84,
+          85
+        ],
+        "duration_s": 29.4,
+        "percentage": 0.01
+      },
+      "act_42": {
+        "phrase_range": [
+          85,
+          86
+        ],
+        "duration_s": 28.9,
+        "percentage": 0.01
+      },
+      "act_43": {
+        "phrase_range": [
+          86,
+          87
+        ],
+        "duration_s": 31.6,
+        "percentage": 0.01
+      },
+      "act_44": {
+        "phrase_range": [
+          87,
+          88
+        ],
+        "duration_s": 29.1,
+        "percentage": 0.01
+      },
+      "act_45": {
+        "phrase_range": [
+          88,
+          88
+        ],
+        "duration_s": 29.3,
+        "percentage": 0.01
+      },
+      "act_46": {
+        "phrase_range": [
+          89,
+          90
+        ],
+        "duration_s": 30.7,
+        "percentage": 0.01
+      },
+      "act_47": {
+        "phrase_range": [
+          90,
+          95
+        ],
+        "duration_s": 88.8,
+        "percentage": 0.04
+      },
+      "act_48": {
+        "phrase_range": [
+          95,
+          95
+        ],
+        "duration_s": 17.5,
+        "percentage": 0.01
+      },
+      "act_49": {
+        "phrase_range": [
+          96,
+          96
+        ],
+        "duration_s": 27.4,
+        "percentage": 0.01
+      },
+      "act_50": {
+        "phrase_range": [
+          97,
+          100
+        ],
+        "duration_s": 33.5,
+        "percentage": 0.02
+      },
+      "act_51": {
+        "phrase_range": [
+          100,
+          110
+        ],
+        "duration_s": 89.6,
+        "percentage": 0.04
+      },
+      "act_52": {
+        "phrase_range": [
+          110,
+          111
+        ],
+        "duration_s": 24.9,
+        "percentage": 0.01
+      },
+      "act_53": {
+        "phrase_range": [
+          111,
+          112
+        ],
+        "duration_s": 18.4,
+        "percentage": 0.01
+      },
+      "act_54": {
+        "phrase_range": [
+          112,
+          112
+        ],
+        "duration_s": 10.9,
+        "percentage": 0.01
+      },
+      "act_55": {
+        "phrase_range": [
+          113,
+          114
+        ],
+        "duration_s": 14.8,
+        "percentage": 0.01
+      },
+      "act_56": {
+        "phrase_range": [
+          114,
+          114
+        ],
+        "duration_s": 9.9,
+        "percentage": 0.0
+      },
+      "act_57": {
+        "phrase_range": [
+          115,
+          115
+        ],
+        "duration_s": 16.1,
+        "percentage": 0.01
+      },
+      "act_58": {
+        "phrase_range": [
+          116,
+          120
+        ],
+        "duration_s": 38.8,
+        "percentage": 0.02
+      },
+      "act_59": {
+        "phrase_range": [
+          121,
+          122
+        ],
+        "duration_s": 26.2,
+        "percentage": 0.01
+      }
+    },
+    "gap_distribution": {
+      "short": {
+        "range": "0-2s",
+        "count": 36
+      },
+      "medium": {
+        "range": "2-5s",
+        "count": 16
+      },
+      "long": {
+        "range": "5-10s",
+        "count": 15
+      },
+      "act": {
+        "range": "10s+",
+        "count": 54
+      }
+    },
+    "avg_gap_seconds": 13.41,
+    "median_gap_seconds": 6.86,
+    "max_gap_seconds": 50.62,
+    "min_gap_seconds": 0.0
+  },
+  "language": {
+    "sentence_style": "descriptive-narrative",
+    "perspective": "second-person-guided",
+    "common_phrases": [
+      "thank you",
+      "you thank",
+      "back to",
+      "you now",
+      "to focus",
+      "thank you thank",
+      "you thank you",
+      "side of you",
+      "thank you now",
+      "thank you for"
+    ],
+    "structural_patterns": [
+      "relaxation cycles",
+      "numbered sequence",
+      "countdown element"
+    ],
+    "repetition_rate": 0.02,
+    "avg_sentence_length_words": 7.7,
+    "imperative_ratio": 0.16,
+    "total_sentences": 81
+  },
+  "trajectory": {
+    "opening": "Guided entry with relaxation induction",
+    "deepening": "Multi-phase deepening across 60 distinct sections",
+    "transitions": "Countdown-based transitions for deepening and return",
+    "deviation_handling": "Explicit attention redirection for wandering mind"
+  },
+  "binaural": {
+    "brainwave": "theta",
+    "carrier_freq_hz": 120,
+    "beat_freq_hz": 6.0,
+    "description": "Theta range (4-8 Hz) for deep meditation and visualization"
+  }
+}

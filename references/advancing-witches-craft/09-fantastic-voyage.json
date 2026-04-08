@@ -1,0 +1,154 @@
+{
+  "id": "09-fantastic-voyage",
+  "name": "Fantastic Voyage",
+  "collection": "advancing-witches-craft",
+  "category": "voyage",
+  "total_duration_seconds": 1118.6,
+  "total_phrases": 156,
+  "tone": {
+    "energy": "high",
+    "warmth": "neutral-warm",
+    "formality": "guided",
+    "description": "Balanced guidance mixing instruction with descriptive elements"
+  },
+  "pacing": {
+    "avg_speaking_rate_wpm": 153,
+    "instruction_pause_seconds": 6.5,
+    "body_scan_pause_seconds": 2.3,
+    "countdown_pause_seconds": 0.6,
+    "act_boundaries": [
+      25.3,
+      41.9,
+      71.7,
+      102.0,
+      131.9,
+      161.1,
+      319.1
+    ],
+    "act_structure": {
+      "opening": {
+        "phrase_range": [
+          0,
+          4
+        ],
+        "duration_s": 23.6,
+        "percentage": 0.02
+      },
+      "deepening": {
+        "phrase_range": [
+          5,
+          6
+        ],
+        "duration_s": 16.6,
+        "percentage": 0.01
+      },
+      "body": {
+        "phrase_range": [
+          6,
+          6
+        ],
+        "duration_s": 29.8,
+        "percentage": 0.03
+      },
+      "return": {
+        "phrase_range": [
+          7,
+          7
+        ],
+        "duration_s": 30.3,
+        "percentage": 0.03
+      },
+      "closing": {
+        "phrase_range": [
+          8,
+          8
+        ],
+        "duration_s": 29.9,
+        "percentage": 0.03
+      },
+      "extra": {
+        "phrase_range": [
+          9,
+          10
+        ],
+        "duration_s": 29.2,
+        "percentage": 0.03
+      },
+      "act_6": {
+        "phrase_range": [
+          10,
+          30
+        ],
+        "duration_s": 158.0,
+        "percentage": 0.14
+      },
+      "act_7": {
+        "phrase_range": [
+          30,
+          156
+        ],
+        "duration_s": 801.1,
+        "percentage": 0.72
+      }
+    },
+    "gap_distribution": {
+      "short": {
+        "range": "0-2s",
+        "count": 99
+      },
+      "medium": {
+        "range": "2-5s",
+        "count": 33
+      },
+      "long": {
+        "range": "5-10s",
+        "count": 17
+      },
+      "act": {
+        "range": "10s+",
+        "count": 6
+      }
+    },
+    "avg_gap_seconds": 2.65,
+    "median_gap_seconds": 0.12,
+    "max_gap_seconds": 29.82,
+    "min_gap_seconds": 0.0
+  },
+  "language": {
+    "sentence_style": "descriptive-narrative",
+    "perspective": "second-person-guided",
+    "common_phrases": [
+      "closer and",
+      "the mind",
+      "these levels",
+      "farther out",
+      "levels of",
+      "of the mind",
+      "levels of the",
+      "farther out and",
+      "these levels of",
+      "closer and closer"
+    ],
+    "structural_patterns": [
+      "deepening progression",
+      "relaxation cycles",
+      "countdown element"
+    ],
+    "repetition_rate": 0.02,
+    "avg_sentence_length_words": 21.2,
+    "imperative_ratio": 0.21,
+    "total_sentences": 61
+  },
+  "trajectory": {
+    "opening": "Guided entry with relaxation induction",
+    "deepening": "Multi-phase deepening across 8 distinct sections",
+    "transitions": "Countdown-based transitions for deepening and return",
+    "deviation_handling": "Explicit attention redirection for wandering mind"
+  },
+  "binaural": {
+    "brainwave": "theta",
+    "carrier_freq_hz": 120,
+    "beat_freq_hz": 6.0,
+    "description": "Theta range (4-8 Hz) for deep meditation and visualization"
+  }
+}

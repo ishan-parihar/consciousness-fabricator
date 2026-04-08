@@ -1,0 +1,220 @@
+{
+  "id": "02-illuminate-your-path",
+  "name": "Illuminate Your Path",
+  "collection": "advancing-witches-craft",
+  "category": "illumination",
+  "total_duration_seconds": 2141.1,
+  "total_phrases": 323,
+  "tone": {
+    "energy": "moderate",
+    "warmth": "warm",
+    "formality": "guided",
+    "description": "Balanced guidance mixing instruction with descriptive elements"
+  },
+  "pacing": {
+    "avg_speaking_rate_wpm": 124,
+    "instruction_pause_seconds": 1.9,
+    "body_scan_pause_seconds": 3.1,
+    "countdown_pause_seconds": 2.4,
+    "act_boundaries": [
+      408.8,
+      640.5,
+      964.3,
+      1160.7,
+      1210.6,
+      1235.9,
+      1260.0,
+      1313.8,
+      1550.9,
+      1571.0,
+      1641.4,
+      1842.3,
+      2068.4,
+      2105.6
+    ],
+    "act_structure": {
+      "opening": {
+        "phrase_range": [
+          0,
+          66
+        ],
+        "duration_s": 408.8,
+        "percentage": 0.19
+      },
+      "deepening": {
+        "phrase_range": [
+          66,
+          95
+        ],
+        "duration_s": 231.7,
+        "percentage": 0.11
+      },
+      "body": {
+        "phrase_range": [
+          95,
+          139
+        ],
+        "duration_s": 323.8,
+        "percentage": 0.15
+      },
+      "return": {
+        "phrase_range": [
+          139,
+          166
+        ],
+        "duration_s": 196.4,
+        "percentage": 0.09
+      },
+      "closing": {
+        "phrase_range": [
+          166,
+          171
+        ],
+        "duration_s": 49.9,
+        "percentage": 0.02
+      },
+      "extra": {
+        "phrase_range": [
+          171,
+          173
+        ],
+        "duration_s": 25.3,
+        "percentage": 0.01
+      },
+      "act_6": {
+        "phrase_range": [
+          173,
+          175
+        ],
+        "duration_s": 24.1,
+        "percentage": 0.01
+      },
+      "act_7": {
+        "phrase_range": [
+          175,
+          180
+        ],
+        "duration_s": 53.8,
+        "percentage": 0.03
+      },
+      "act_8": {
+        "phrase_range": [
+          181,
+          227
+        ],
+        "duration_s": 237.1,
+        "percentage": 0.11
+      },
+      "act_9": {
+        "phrase_range": [
+          227,
+          228
+        ],
+        "duration_s": 20.1,
+        "percentage": 0.01
+      },
+      "act_10": {
+        "phrase_range": [
+          229,
+          245
+        ],
+        "duration_s": 70.4,
+        "percentage": 0.03
+      },
+      "act_11": {
+        "phrase_range": [
+          246,
+          270
+        ],
+        "duration_s": 200.9,
+        "percentage": 0.09
+      },
+      "act_12": {
+        "phrase_range": [
+          271,
+          316
+        ],
+        "duration_s": 226.1,
+        "percentage": 0.11
+      },
+      "act_13": {
+        "phrase_range": [
+          317,
+          322
+        ],
+        "duration_s": 37.2,
+        "percentage": 0.02
+      },
+      "act_14": {
+        "phrase_range": [
+          322,
+          323
+        ],
+        "duration_s": 35.5,
+        "percentage": 0.02
+      }
+    },
+    "gap_distribution": {
+      "short": {
+        "range": "0-2s",
+        "count": 179
+      },
+      "medium": {
+        "range": "2-5s",
+        "count": 80
+      },
+      "long": {
+        "range": "5-10s",
+        "count": 53
+      },
+      "act": {
+        "range": "10s+",
+        "count": 10
+      }
+    },
+    "avg_gap_seconds": 2.65,
+    "median_gap_seconds": 1.63,
+    "max_gap_seconds": 31.68,
+    "min_gap_seconds": 0.0
+  },
+  "language": {
+    "sentence_style": "mixed-imperative",
+    "perspective": "second-person-guided",
+    "common_phrases": [
+      "relax all",
+      "your body",
+      "of relaxation",
+      "a deep",
+      "state of",
+      "all tensions and",
+      "tensions and ligament",
+      "and ligament pressures",
+      "deeper and deeper",
+      "relax all tensions"
+    ],
+    "structural_patterns": [
+      "command-based guidance",
+      "deepening progression",
+      "relaxation cycles",
+      "numbered sequence",
+      "countdown element",
+      "inclusive framing"
+    ],
+    "repetition_rate": 0.07,
+    "avg_sentence_length_words": 14.5,
+    "imperative_ratio": 0.36,
+    "total_sentences": 162
+  },
+  "trajectory": {
+    "opening": "Guided entry with relaxation induction",
+    "deepening": "Multi-phase deepening across 15 distinct sections",
+    "transitions": "Countdown-based transitions for deepening and return",
+    "deviation_handling": "Explicit attention redirection for wandering mind"
+  },
+  "binaural": {
+    "brainwave": "theta",
+    "carrier_freq_hz": 120,
+    "beat_freq_hz": 6.0,
+    "description": "Theta range (4-8 Hz) for deep meditation and visualization"
+  }
+}

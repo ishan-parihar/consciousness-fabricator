@@ -1,0 +1,908 @@
+{
+  "id": "01-exploring-the-tunnel",
+  "name": "Exploring The Tunnel",
+  "collection": "advancing-witches-craft",
+  "category": "tunnel-exploration",
+  "total_duration_seconds": 2744.1,
+  "total_phrases": 184,
+  "tone": {
+    "energy": "high",
+    "warmth": "neutral",
+    "formality": "guided",
+    "description": "Balanced guidance mixing instruction with descriptive elements"
+  },
+  "pacing": {
+    "avg_speaking_rate_wpm": 175,
+    "instruction_pause_seconds": 6.7,
+    "body_scan_pause_seconds": 11.1,
+    "countdown_pause_seconds": 14.7,
+    "act_boundaries": [
+      0.8,
+      13.5,
+      31.1,
+      49.5,
+      77.4,
+      122.9,
+      152.3,
+      162.5,
+      175.8,
+      191.9,
+      207.4,
+      224.0,
+      250.9,
+      273.4,
+      285.2,
+      403.5,
+      447.0,
+      487.7,
+      511.3,
+      560.5,
+      573.4,
+      596.0,
+      611.9,
+      632.5,
+      648.8,
+      665.3,
+      680.0,
+      694.5,
+      716.8,
+      731.4,
+      747.9,
+      762.4,
+      782.9,
+      809.9,
+      856.9,
+      895.6,
+      925.5,
+      976.6,
+      997.5,
+      1030.4,
+      1063.4,
+      1083.2,
+      1101.5,
+      1125.8,
+      1200.0,
+      1232.5,
+      1277.9,
+      1313.5,
+      1354.3,
+      1391.1,
+      1435.0,
+      1468.2,
+      1488.3,
+      1500.1,
+      1511.4,
+      1528.8,
+      1547.1,
+      1565.2,
+      1606.2,
+      1636.5,
+      1665.0,
+      1690.2,
+      1712.4,
+      1739.1,
+      1759.4,
+      1790.6,
+      1814.4,
+      1837.1,
+      1872.0,
+      1900.7,
+      1929.7,
+      1961.9,
+      1990.4,
+      2028.7,
+      2056.4,
+      2089.1,
+      2124.8,
+      2149.9,
+      2183.9,
+      2212.0,
+      2245.1,
+      2276.2,
+      2319.5,
+      2355.2,
+      2387.7,
+      2416.9,
+      2464.0,
+      2475.3,
+      2523.2,
+      2667.3,
+      2701.0
+    ],
+    "act_structure": {
+      "opening": {
+        "phrase_range": [
+          0,
+          184
+        ],
+        "duration_s": 0.8,
+        "percentage": 0.0
+      },
+      "deepening": {
+        "phrase_range": [
+          1,
+          2
+        ],
+        "duration_s": 12.7,
+        "percentage": 0.0
+      },
+      "body": {
+        "phrase_range": [
+          2,
+          2
+        ],
+        "duration_s": 17.6,
+        "percentage": 0.01
+      },
+      "return": {
+        "phrase_range": [
+          3,
+          6
+        ],
+        "duration_s": 18.4,
+        "percentage": 0.01
+      },
+      "closing": {
+        "phrase_range": [
+          6,
+          8
+        ],
+        "duration_s": 27.9,
+        "percentage": 0.01
+      },
+      "extra": {
+        "phrase_range": [
+          8,
+          12
+        ],
+        "duration_s": 45.5,
+        "percentage": 0.02
+      },
+      "act_6": {
+        "phrase_range": [
+          12,
+          13
+        ],
+        "duration_s": 29.4,
+        "percentage": 0.01
+      },
+      "act_7": {
+        "phrase_range": [
+          14,
+          14
+        ],
+        "duration_s": 10.2,
+        "percentage": 0.0
+      },
+      "act_8": {
+        "phrase_range": [
+          15,
+          15
+        ],
+        "duration_s": 13.3,
+        "percentage": 0.0
+      },
+      "act_9": {
+        "phrase_range": [
+          16,
+          16
+        ],
+        "duration_s": 16.1,
+        "percentage": 0.01
+      },
+      "act_10": {
+        "phrase_range": [
+          17,
+          17
+        ],
+        "duration_s": 15.5,
+        "percentage": 0.01
+      },
+      "act_11": {
+        "phrase_range": [
+          18,
+          19
+        ],
+        "duration_s": 16.6,
+        "percentage": 0.01
+      },
+      "act_12": {
+        "phrase_range": [
+          19,
+          22
+        ],
+        "duration_s": 26.9,
+        "percentage": 0.01
+      },
+      "act_13": {
+        "phrase_range": [
+          22,
+          24
+        ],
+        "duration_s": 22.5,
+        "percentage": 0.01
+      },
+      "act_14": {
+        "phrase_range": [
+          24,
+          25
+        ],
+        "duration_s": 11.8,
+        "percentage": 0.0
+      },
+      "act_15": {
+        "phrase_range": [
+          25,
+          39
+        ],
+        "duration_s": 118.3,
+        "percentage": 0.04
+      },
+      "act_16": {
+        "phrase_range": [
+          39,
+          44
+        ],
+        "duration_s": 43.5,
+        "percentage": 0.02
+      },
+      "act_17": {
+        "phrase_range": [
+          45,
+          49
+        ],
+        "duration_s": 40.7,
+        "percentage": 0.01
+      },
+      "act_18": {
+        "phrase_range": [
+          50,
+          50
+        ],
+        "duration_s": 23.6,
+        "percentage": 0.01
+      },
+      "act_19": {
+        "phrase_range": [
+          51,
+          51
+        ],
+        "duration_s": 49.2,
+        "percentage": 0.02
+      },
+      "act_20": {
+        "phrase_range": [
+          52,
+          53
+        ],
+        "duration_s": 12.9,
+        "percentage": 0.0
+      },
+      "act_21": {
+        "phrase_range": [
+          53,
+          53
+        ],
+        "duration_s": 22.6,
+        "percentage": 0.01
+      },
+      "act_22": {
+        "phrase_range": [
+          54,
+          54
+        ],
+        "duration_s": 15.9,
+        "percentage": 0.01
+      },
+      "act_23": {
+        "phrase_range": [
+          55,
+          57
+        ],
+        "duration_s": 20.6,
+        "percentage": 0.01
+      },
+      "act_24": {
+        "phrase_range": [
+          57,
+          58
+        ],
+        "duration_s": 16.3,
+        "percentage": 0.01
+      },
+      "act_25": {
+        "phrase_range": [
+          58,
+          59
+        ],
+        "duration_s": 16.5,
+        "percentage": 0.01
+      },
+      "act_26": {
+        "phrase_range": [
+          59,
+          59
+        ],
+        "duration_s": 14.7,
+        "percentage": 0.01
+      },
+      "act_27": {
+        "phrase_range": [
+          60,
+          61
+        ],
+        "duration_s": 14.5,
+        "percentage": 0.01
+      },
+      "act_28": {
+        "phrase_range": [
+          61,
+          62
+        ],
+        "duration_s": 22.3,
+        "percentage": 0.01
+      },
+      "act_29": {
+        "phrase_range": [
+          63,
+          64
+        ],
+        "duration_s": 14.6,
+        "percentage": 0.01
+      },
+      "act_30": {
+        "phrase_range": [
+          64,
+          64
+        ],
+        "duration_s": 16.5,
+        "percentage": 0.01
+      },
+      "act_31": {
+        "phrase_range": [
+          65,
+          66
+        ],
+        "duration_s": 14.5,
+        "percentage": 0.01
+      },
+      "act_32": {
+        "phrase_range": [
+          66,
+          68
+        ],
+        "duration_s": 20.5,
+        "percentage": 0.01
+      },
+      "act_33": {
+        "phrase_range": [
+          68,
+          71
+        ],
+        "duration_s": 27.0,
+        "percentage": 0.01
+      },
+      "act_34": {
+        "phrase_range": [
+          71,
+          73
+        ],
+        "duration_s": 47.0,
+        "percentage": 0.02
+      },
+      "act_35": {
+        "phrase_range": [
+          74,
+          74
+        ],
+        "duration_s": 38.7,
+        "percentage": 0.01
+      },
+      "act_36": {
+        "phrase_range": [
+          75,
+          75
+        ],
+        "duration_s": 29.9,
+        "percentage": 0.01
+      },
+      "act_37": {
+        "phrase_range": [
+          76,
+          78
+        ],
+        "duration_s": 51.1,
+        "percentage": 0.02
+      },
+      "act_38": {
+        "phrase_range": [
+          78,
+          80
+        ],
+        "duration_s": 20.9,
+        "percentage": 0.01
+      },
+      "act_39": {
+        "phrase_range": [
+          80,
+          83
+        ],
+        "duration_s": 32.9,
+        "percentage": 0.01
+      },
+      "act_40": {
+        "phrase_range": [
+          83,
+          83
+        ],
+        "duration_s": 33.0,
+        "percentage": 0.01
+      },
+      "act_41": {
+        "phrase_range": [
+          84,
+          85
+        ],
+        "duration_s": 19.8,
+        "percentage": 0.01
+      },
+      "act_42": {
+        "phrase_range": [
+          85,
+          85
+        ],
+        "duration_s": 18.3,
+        "percentage": 0.01
+      },
+      "act_43": {
+        "phrase_range": [
+          86,
+          87
+        ],
+        "duration_s": 24.3,
+        "percentage": 0.01
+      },
+      "act_44": {
+        "phrase_range": [
+          87,
+          94
+        ],
+        "duration_s": 74.2,
+        "percentage": 0.03
+      },
+      "act_45": {
+        "phrase_range": [
+          94,
+          95
+        ],
+        "duration_s": 32.5,
+        "percentage": 0.01
+      },
+      "act_46": {
+        "phrase_range": [
+          95,
+          99
+        ],
+        "duration_s": 45.4,
+        "percentage": 0.02
+      },
+      "act_47": {
+        "phrase_range": [
+          99,
+          100
+        ],
+        "duration_s": 35.6,
+        "percentage": 0.01
+      },
+      "act_48": {
+        "phrase_range": [
+          100,
+          104
+        ],
+        "duration_s": 40.8,
+        "percentage": 0.01
+      },
+      "act_49": {
+        "phrase_range": [
+          104,
+          105
+        ],
+        "duration_s": 36.8,
+        "percentage": 0.01
+      },
+      "act_50": {
+        "phrase_range": [
+          105,
+          108
+        ],
+        "duration_s": 43.9,
+        "percentage": 0.02
+      },
+      "act_51": {
+        "phrase_range": [
+          109,
+          111
+        ],
+        "duration_s": 33.2,
+        "percentage": 0.01
+      },
+      "act_52": {
+        "phrase_range": [
+          112,
+          115
+        ],
+        "duration_s": 20.1,
+        "percentage": 0.01
+      },
+      "act_53": {
+        "phrase_range": [
+          115,
+          116
+        ],
+        "duration_s": 11.8,
+        "percentage": 0.0
+      },
+      "act_54": {
+        "phrase_range": [
+          116,
+          117
+        ],
+        "duration_s": 11.3,
+        "percentage": 0.0
+      },
+      "act_55": {
+        "phrase_range": [
+          117,
+          118
+        ],
+        "duration_s": 17.4,
+        "percentage": 0.01
+      },
+      "act_56": {
+        "phrase_range": [
+          119,
+          120
+        ],
+        "duration_s": 18.3,
+        "percentage": 0.01
+      },
+      "act_57": {
+        "phrase_range": [
+          121,
+          123
+        ],
+        "duration_s": 18.1,
+        "percentage": 0.01
+      },
+      "act_58": {
+        "phrase_range": [
+          123,
+          123
+        ],
+        "duration_s": 41.0,
+        "percentage": 0.01
+      },
+      "act_59": {
+        "phrase_range": [
+          124,
+          124
+        ],
+        "duration_s": 30.3,
+        "percentage": 0.01
+      },
+      "act_60": {
+        "phrase_range": [
+          125,
+          125
+        ],
+        "duration_s": 28.5,
+        "percentage": 0.01
+      },
+      "act_61": {
+        "phrase_range": [
+          126,
+          126
+        ],
+        "duration_s": 25.2,
+        "percentage": 0.01
+      },
+      "act_62": {
+        "phrase_range": [
+          127,
+          128
+        ],
+        "duration_s": 22.2,
+        "percentage": 0.01
+      },
+      "act_63": {
+        "phrase_range": [
+          128,
+          129
+        ],
+        "duration_s": 26.7,
+        "percentage": 0.01
+      },
+      "act_64": {
+        "phrase_range": [
+          129,
+          130
+        ],
+        "duration_s": 20.3,
+        "percentage": 0.01
+      },
+      "act_65": {
+        "phrase_range": [
+          130,
+          132
+        ],
+        "duration_s": 31.2,
+        "percentage": 0.01
+      },
+      "act_66": {
+        "phrase_range": [
+          132,
+          133
+        ],
+        "duration_s": 23.8,
+        "percentage": 0.01
+      },
+      "act_67": {
+        "phrase_range": [
+          134,
+          137
+        ],
+        "duration_s": 22.7,
+        "percentage": 0.01
+      },
+      "act_68": {
+        "phrase_range": [
+          137,
+          137
+        ],
+        "duration_s": 34.9,
+        "percentage": 0.01
+      },
+      "act_69": {
+        "phrase_range": [
+          138,
+          139
+        ],
+        "duration_s": 28.7,
+        "percentage": 0.01
+      },
+      "act_70": {
+        "phrase_range": [
+          139,
+          140
+        ],
+        "duration_s": 29.0,
+        "percentage": 0.01
+      },
+      "act_71": {
+        "phrase_range": [
+          140,
+          141
+        ],
+        "duration_s": 32.2,
+        "percentage": 0.01
+      },
+      "act_72": {
+        "phrase_range": [
+          141,
+          141
+        ],
+        "duration_s": 28.5,
+        "percentage": 0.01
+      },
+      "act_73": {
+        "phrase_range": [
+          142,
+          145
+        ],
+        "duration_s": 38.3,
+        "percentage": 0.01
+      },
+      "act_74": {
+        "phrase_range": [
+          145,
+          146
+        ],
+        "duration_s": 27.7,
+        "percentage": 0.01
+      },
+      "act_75": {
+        "phrase_range": [
+          147,
+          149
+        ],
+        "duration_s": 32.7,
+        "percentage": 0.01
+      },
+      "act_76": {
+        "phrase_range": [
+          150,
+          151
+        ],
+        "duration_s": 35.7,
+        "percentage": 0.01
+      },
+      "act_77": {
+        "phrase_range": [
+          151,
+          151
+        ],
+        "duration_s": 25.1,
+        "percentage": 0.01
+      },
+      "act_78": {
+        "phrase_range": [
+          152,
+          153
+        ],
+        "duration_s": 34.0,
+        "percentage": 0.01
+      },
+      "act_79": {
+        "phrase_range": [
+          153,
+          153
+        ],
+        "duration_s": 28.1,
+        "percentage": 0.01
+      },
+      "act_80": {
+        "phrase_range": [
+          154,
+          155
+        ],
+        "duration_s": 33.1,
+        "percentage": 0.01
+      },
+      "act_81": {
+        "phrase_range": [
+          155,
+          156
+        ],
+        "duration_s": 31.1,
+        "percentage": 0.01
+      },
+      "act_82": {
+        "phrase_range": [
+          157,
+          158
+        ],
+        "duration_s": 43.3,
+        "percentage": 0.02
+      },
+      "act_83": {
+        "phrase_range": [
+          159,
+          160
+        ],
+        "duration_s": 35.7,
+        "percentage": 0.01
+      },
+      "act_84": {
+        "phrase_range": [
+          160,
+          161
+        ],
+        "duration_s": 32.5,
+        "percentage": 0.01
+      },
+      "act_85": {
+        "phrase_range": [
+          161,
+          161
+        ],
+        "duration_s": 29.2,
+        "percentage": 0.01
+      },
+      "act_86": {
+        "phrase_range": [
+          162,
+          163
+        ],
+        "duration_s": 47.1,
+        "percentage": 0.02
+      },
+      "act_87": {
+        "phrase_range": [
+          163,
+          164
+        ],
+        "duration_s": 11.3,
+        "percentage": 0.0
+      },
+      "act_88": {
+        "phrase_range": [
+          164,
+          166
+        ],
+        "duration_s": 47.9,
+        "percentage": 0.02
+      },
+      "act_89": {
+        "phrase_range": [
+          166,
+          182
+        ],
+        "duration_s": 144.1,
+        "percentage": 0.05
+      },
+      "act_90": {
+        "phrase_range": [
+          182,
+          182
+        ],
+        "duration_s": 33.7,
+        "percentage": 0.01
+      },
+      "act_91": {
+        "phrase_range": [
+          183,
+          184
+        ],
+        "duration_s": 43.1,
+        "percentage": 0.02
+      }
+    },
+    "gap_distribution": {
+      "short": {
+        "range": "0-2s",
+        "count": 52
+      },
+      "medium": {
+        "range": "2-5s",
+        "count": 29
+      },
+      "long": {
+        "range": "5-10s",
+        "count": 21
+      },
+      "act": {
+        "range": "10s+",
+        "count": 81
+      }
+    },
+    "avg_gap_seconds": 11.33,
+    "median_gap_seconds": 7.46,
+    "max_gap_seconds": 45.66,
+    "min_gap_seconds": 0.0
+  },
+  "language": {
+    "sentence_style": "descriptive-narrative",
+    "perspective": "second-person-guided",
+    "common_phrases": [
+      "thank you",
+      "you thank",
+      "the tunnel",
+      "the energy",
+      "your body",
+      "thank you thank",
+      "you thank you",
+      "out the top",
+      "the top of",
+      "do this thank"
+    ],
+    "structural_patterns": [
+      "relaxation cycles"
+    ],
+    "repetition_rate": 0.01,
+    "avg_sentence_length_words": 8.1,
+    "imperative_ratio": 0.14,
+    "total_sentences": 147
+  },
+  "trajectory": {
+    "opening": "Guided entry with relaxation induction",
+    "deepening": "Multi-phase deepening across 92 distinct sections",
+    "transitions": "Structured transitions between well-defined phases",
+    "deviation_handling": "Explicit attention redirection for wandering mind"
+  },
+  "binaural": {
+    "brainwave": "theta",
+    "carrier_freq_hz": 120,
+    "beat_freq_hz": 6.0,
+    "description": "Theta range (4-8 Hz) for deep meditation and visualization"
+  }
+}

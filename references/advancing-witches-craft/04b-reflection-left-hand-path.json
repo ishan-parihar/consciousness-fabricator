@@ -1,0 +1,189 @@
+{
+  "id": "04b-reflection-left-hand-path",
+  "name": "04B Reflection Left Hand Path",
+  "collection": "advancing-witches-craft",
+  "category": "reflection",
+  "total_duration_seconds": 2124.6,
+  "total_phrases": 523,
+  "tone": {
+    "energy": "high",
+    "warmth": "neutral",
+    "formality": "guided",
+    "description": "Balanced guidance mixing instruction with descriptive elements"
+  },
+  "pacing": {
+    "avg_speaking_rate_wpm": 200,
+    "instruction_pause_seconds": 0.9,
+    "body_scan_pause_seconds": 1.2,
+    "countdown_pause_seconds": 1.8,
+    "act_boundaries": [
+      73.5,
+      591.5,
+      627.5,
+      663.0,
+      728.1,
+      894.6,
+      1834.0,
+      1872.2,
+      1906.3,
+      1938.3,
+      2105.0
+    ],
+    "act_structure": {
+      "opening": {
+        "phrase_range": [
+          0,
+          17
+        ],
+        "duration_s": 66.9,
+        "percentage": 0.03
+      },
+      "deepening": {
+        "phrase_range": [
+          18,
+          161
+        ],
+        "duration_s": 518.0,
+        "percentage": 0.24
+      },
+      "body": {
+        "phrase_range": [
+          162,
+          168
+        ],
+        "duration_s": 36.0,
+        "percentage": 0.02
+      },
+      "return": {
+        "phrase_range": [
+          169,
+          176
+        ],
+        "duration_s": 35.5,
+        "percentage": 0.02
+      },
+      "closing": {
+        "phrase_range": [
+          177,
+          192
+        ],
+        "duration_s": 65.1,
+        "percentage": 0.03
+      },
+      "extra": {
+        "phrase_range": [
+          192,
+          225
+        ],
+        "duration_s": 166.5,
+        "percentage": 0.08
+      },
+      "act_6": {
+        "phrase_range": [
+          225,
+          465
+        ],
+        "duration_s": 939.4,
+        "percentage": 0.44
+      },
+      "act_7": {
+        "phrase_range": [
+          466,
+          472
+        ],
+        "duration_s": 38.2,
+        "percentage": 0.02
+      },
+      "act_8": {
+        "phrase_range": [
+          472,
+          478
+        ],
+        "duration_s": 34.1,
+        "percentage": 0.02
+      },
+      "act_9": {
+        "phrase_range": [
+          478,
+          485
+        ],
+        "duration_s": 32.0,
+        "percentage": 0.02
+      },
+      "act_10": {
+        "phrase_range": [
+          486,
+          522
+        ],
+        "duration_s": 166.7,
+        "percentage": 0.08
+      },
+      "act_11": {
+        "phrase_range": [
+          522,
+          523
+        ],
+        "duration_s": 26.2,
+        "percentage": 0.01
+      }
+    },
+    "gap_distribution": {
+      "short": {
+        "range": "0-2s",
+        "count": 424
+      },
+      "medium": {
+        "range": "2-5s",
+        "count": 68
+      },
+      "long": {
+        "range": "5-10s",
+        "count": 24
+      },
+      "act": {
+        "range": "10s+",
+        "count": 6
+      }
+    },
+    "avg_gap_seconds": 1.29,
+    "median_gap_seconds": 0.25,
+    "max_gap_seconds": 31.72,
+    "min_gap_seconds": 0.0
+  },
+  "language": {
+    "sentence_style": "descriptive-narrative",
+    "perspective": "second-person-guided",
+    "common_phrases": [
+      "shadow realm",
+      "the shadow",
+      "into the",
+      "the key",
+      "looking glass",
+      "the shadow realm",
+      "the looking glass",
+      "of the shadow",
+      "of the mirror",
+      "the soul sword"
+    ],
+    "structural_patterns": [
+      "relaxation cycles",
+      "numbered sequence"
+    ],
+    "repetition_rate": 0.01,
+    "avg_sentence_length_words": 14.3,
+    "imperative_ratio": 0.02,
+    "total_sentences": 326
+  },
+  "trajectory": {
+    "opening": "Guided entry with relaxation induction",
+    "deepening": "Multi-phase deepening across 12 distinct sections",
+    "transitions": "Structured transitions between well-defined phases",
+    "deviation_handling": "Explicit attention redirection for wandering mind"
+  },
+  "binaural": {
+    "brainwave": "theta",
+    "carrier_freq_hz": 120,
+    "beat_freq_hz": 6.0,
+    "description": "Theta range (4-8 Hz) for deep meditation and visualization"
+  }
+}

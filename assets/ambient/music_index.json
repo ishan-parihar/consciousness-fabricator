@@ -1,0 +1,52 @@
+{
+  "tracks": [
+    {
+      "id": "calm-rain",
+      "name": "Gentle Rain",
+      "path": "assets/ambient/calm-rain.mp3",
+      "mood": "calm",
+      "duration_seconds": 600.0,
+      "style_tags": ["nature", "rain"]
+    },
+    {
+      "id": "forest-stream",
+      "name": "Forest Stream",
+      "path": "assets/ambient/forest-stream.mp3",
+      "mood": "calm",
+      "duration_seconds": 480.0,
+      "style_tags": ["nature", "water"]
+    },
+    {
+      "id": "deep-space",
+      "name": "Deep Space Drone",
+      "path": "assets/ambient/deep-space.mp3",
+      "mood": "mystical",
+      "duration_seconds": 900.0,
+      "style_tags": ["ambient", "drone"]
+    },
+    {
+      "id": "theta-pulse",
+      "name": "Theta Meditation",
+      "path": "assets/ambient/theta-pulse.mp3",
+      "mood": "meditative",
+      "duration_seconds": 1200.0,
+      "style_tags": ["binaural", "theta"]
+    },
+    {
+      "id": "warm-light",
+      "name": "Warm Inner Light",
+      "path": "assets/ambient/warm-light.mp3",
+      "mood": "healing",
+      "duration_seconds": 600.0,
+      "style_tags": ["ambient", "warm"]
+    },
+    {
+      "id": "shadow-realm",
+      "name": "Shadow Realm Ambience",
+      "path": "assets/ambient/shadow-realm.mp3",
+      "mood": "mystical",
+      "duration_seconds": 1800.0,
+      "style_tags": ["dark-ambient", "narrative"]
+    }
+  ]
+}

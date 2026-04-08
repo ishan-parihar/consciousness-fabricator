@@ -1,0 +1,20 @@
+# Audio files (all collections)
+meditation-repo/collections/*/audio/*
+*.wav
+*.mp3
+*.MP3
+*.flac
+*.m4a
+*.ogg
+*.aac
+*.opus
+*.webm
+
+# Generated voice reference audio
+voices/ref/*.wav
+
+# Cache and temp files
+__pycache__/
+*.pyc
+*.pyo
+.cache/
