@@ -125,9 +125,6 @@ class TtsClient:
             "text": text,
             "ref_text": voice_profile.ref_text,
             "language": voice_profile.language.lower(),
-            "mode": "voice_clone",
-            "xvec_only": "true",
-            "non_streaming_mode": "true",
         }
 
         files = {
@@ -135,7 +132,7 @@ class TtsClient:
         }
 
         resp = await self._client.post(
-            f"{self._base_url}/generate",
+            f"{self._base_url}/tts/generate",
             data=multipart_data,
             files=files,
         )

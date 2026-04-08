@@ -1,0 +1,22 @@
+# Consciousness Fabricator Engine Config
+
+tts_base_url: "http://localhost:17493"
+tts_cache_dir: ".tts-cache"
+
+voice_profiles_dir: "voices"
+voice_profile_registry: "voices/registry.json"
+
+output_dir: "output"
+ambient_music_dir: "assets/ambient"
+sfx_dir: "assets/sfx"
+
+references_dir: "references"
+
+loudnorm_enabled: true
+fade_out_duration: 5.0
+ducking_reduction_db: -20.0
+ducking_attack_ms: 50
+ducking_release_ms: 200
+
+max_context_chunks: 8
+llm_model: "gpt-4o"

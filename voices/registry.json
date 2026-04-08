@@ -1,0 +1,26 @@
+{
+  "calm_instructor": {
+    "id": "calm_instructor",
+    "provider": "qwen3-tts",
+    "mode": "voice_clone",
+    "model": "qwen3-tts-vc",
+    "ref_audio": "voices/ref/calm_instructor_ref.wav",
+    "ref_text": "mentally you will always use these levels of the mind in a constructive creative manner for all that is good honest pure clean and positive and this is so you will continue to strive to take part in constructive and creative activities to make this a better world to live in so that when you move on you You shall have left behind a better world for those who follow. You will consider the whole of humanity, depending on their ages, as fathers or mothers, brothers or sisters, sons or daughters.",
+    "language": "English",
+    "description": "Calm, methodical instructor voice for Silva Method meditations",
+    "sample_rate": 24000,
+    "created_at": "2026-04-08T00:00:00"
+  },
+  "warm_storyteller": {
+    "id": "warm_storyteller",
+    "provider": "qwen3-tts",
+    "mode": "voice_clone",
+    "model": "qwen3-tts-vc",
+    "ref_audio": "voices/ref/warm_storyteller_ref.wav",
+    "ref_text": "contact and if it has revealed its true form to you. Only you can know if your Shadow Spirit is at your side. The time has come for you to power down the Spirit Temples and return to your earthly existence. As you go about the process of powering down the Spirit Temples, be observant of everything around you. Look for any signs that your shadow spirit may have left for you to discover. Take note of how the shadow realm and the spirit temples look and feel. They may look and feel very different than they did before. This day will forever be recorded in your memory and branded upon your spirit as the day that you met your true magical",
+    "language": "English",
+    "description": "Warm, intimate storyteller voice for Shadow Realm journey meditations",
+    "sample_rate": 24000,
+    "created_at": "2026-04-08T00:00:00"
+  }
+}

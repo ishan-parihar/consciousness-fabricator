@@ -3,10 +3,10 @@
   "provider": "qwen3-tts",
   "mode": "voice_clone",
   "model": "qwen3-tts-vc",
-  "ref_audio": "voices/ref/warm_storyteller.wav",
-  "ref_text": "You feel yourself drifting here for a time, the mundane world melting away as you float downward into the twilight.",
+  "ref_audio": "voices/ref/warm_storyteller_ref.wav",
+  "ref_text": "contact and if it has revealed its true form to you. Only you can know if your Shadow Spirit is at your side. The time has come for you to power down the Spirit Temples and return to your earthly existence. As you go about the process of powering down the Spirit Temples, be observant of everything around you. Look for any signs that your shadow spirit may have left for you to discover. Take note of how the shadow realm and the spirit temples look and feel. They may look and feel very different than they did before. This day will forever be recorded in your memory and branded upon your spirit as the day that you met your true magical",
   "language": "English",
   "description": "Warm, intimate storyteller voice for Shadow Realm journey meditations",
-  "sample_rate": 22050,
+  "sample_rate": 24000,
   "created_at": "2026-04-08T00:00:00"
 }

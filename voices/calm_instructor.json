@@ -3,7 +3,7 @@
   "provider": "qwen3-tts",
   "mode": "voice_clone",
   "model": "qwen3-tts-vc",
-  "ref_audio": "voices/ref/calm_instructor.wav",
+  "ref_audio": "voices/ref/calm_instructor_ref.wav",
   "ref_text": "Welcome to this relaxation exercise. You are now at a deeper healthier level of mind. Take a deep breath and relax.",
   "language": "English",
   "description": "Calm, methodical instructor voice for Silva Method meditations",
