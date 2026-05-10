@@ -1,14 +1,19 @@
 # Consciousness Fabricator
 
-AI-powered meditation audio generator. Produces guided meditation sessions with voice-cloned narration, binaural beats, and ambient soundscapes — all from a text prompt.
+**AI-powered meditation audio generator. Produces guided meditation sessions with voice-cloned narration, binaural beats, and ambient soundscapes — all from a text prompt.**
 
-## Quick Start
+> **The Problem**: Generating guided meditation audio usually requires either expensive human voice actors or robotic TTS that lacks the intimate, nuanced delivery needed for deep relaxation. The challenge was to create a system that could not only clone a warm, human-like voice but also synchronize it with psycho-acoustic elements like binaural beats and ambient music to induce specific mental states.
 
-### Prerequisites
+## Engineering Highlights
 
-- **Python 3.11+**
-- **Voicebox TTS** — Docker container running on port 17493 (see [Voicebox Setup](#voicebox-setup))
-- **FFmpeg** — for audio mixing (`sudo pacman -S ffmpeg` on Arch)
+### Voice-Cloned Narrator with Qwen-TTS
+I integrated a GPU-accelerated voice-cloning engine based on Qwen 0.6B, achieving high-fidelity, emotionally resonant narration. By utilizing x-vector-only mode, I enabled clean voice cloning from short reference samples, delivering a "warm storyteller" feel that rivals human narration while maintaining a real-time factor (RTF) of ~0.14x.
+
+### Psycho-Acoustic Audio Pipeline
+I built a multi-track audio mixer using FFmpeg that synchronizes voice-cloned narration with binaural beats (e.g., Alpha waves for the Silva Method) and mood-matched ambient soundscapes. This creates a cohesive, immersive audio environment designed to drive the listener toward specific brainwave states.
+
+### Dynamic Session Deviation
+I implemented a "mid-session deviation" feature that allows the system to change the direction of a meditation in real-time based on user input. The system dynamically regenerates the remaining script and audio chunks while maintaining the current emotional flow and pacing, allowing for truly interactive guided experiences.
 
 ### Installation
 
