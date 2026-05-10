@@ -21,3 +21,6 @@ __pycache__/
 .tts-cache/
 .meditate-sessions/
 output/
+.contexty
+.memsearch
+.hive
