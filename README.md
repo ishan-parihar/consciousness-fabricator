@@ -1,4 +1,9 @@
-# Consciousness Fabricator
+![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)
+![GPU](https://img.shields.io/badge/GPU-Qwen%200.6B-ff6f00)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-6+-red?logo=ffmpeg)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Research%20Prototype-orange)
+
 
 **AI-powered meditation audio generator. Produces guided meditation sessions with voice-cloned narration, binaural beats, and ambient soundscapes — all from a text prompt.**
 
@@ -82,6 +87,8 @@ curl http://localhost:17493/health
 
 ```bash
 # List available meditation references
+
+<!-- T2I HERO SPEC — Subject: a consciousness fabricator — a text prompt on the left weaving through Qwen-0.6B voice cloning and binaural-beat oscillators into a finished guided-meditation session (voice waveform + ambient soundscape layers); neural-thread loom motif. Composition: prompt → loom → meditation sphere. Palette: deep violet #1e1b4b → meditation teal #2dd4bf → binaural gold #f59e0b. Style: dark mystical flat vector, woven neural threads, no text. 16:9. -->
 python meditate.py list
 
 # Generate meditation audio file
