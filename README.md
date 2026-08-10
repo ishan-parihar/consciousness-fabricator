@@ -1,4 +1,5 @@
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)
+[![CI](https://github.com/ishan-parihar/consciousness-fabricator/actions/workflows/ci.yml/badge.svg)](https://github.com/ishan-parihar/consciousness-fabricator/actions/workflows/ci.yml)
 ![GPU](https://img.shields.io/badge/GPU-Qwen%200.6B-ff6f00)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-6+-red?logo=ffmpeg)
 ![License](https://img.shields.io/badge/License-MIT-green)
