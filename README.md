@@ -1,3 +1,5 @@
+<!-- T2I HERO SPEC — Subject: a consciousness fabricator — a text prompt on the left weaving through Qwen-0.6B voice cloning and binaural-beat oscillators into a finished guided-meditation session (voice waveform + ambient soundscape layers); neural-thread loom motif. Composition: prompt → loom → meditation sphere. Palette: deep violet #1e1b4b → meditation teal #2dd4bf → binaural gold #f59e0b. Style: dark mystical flat vector, woven neural threads, no text. 16:9. -->
+
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)
 ![LOC](https://img.shields.io/badge/LOC-9.2K-informational?style=flat-square)
 [![CI](https://github.com/ishan-parihar/consciousness-fabricator/actions/workflows/ci.yml/badge.svg)](https://github.com/ishan-parihar/consciousness-fabricator/actions/workflows/ci.yml)
@@ -90,7 +92,7 @@ curl http://localhost:17493/health
 ```bash
 # List available meditation references
 
-<!-- T2I HERO SPEC — Subject: a consciousness fabricator — a text prompt on the left weaving through Qwen-0.6B voice cloning and binaural-beat oscillators into a finished guided-meditation session (voice waveform + ambient soundscape layers); neural-thread loom motif. Composition: prompt → loom → meditation sphere. Palette: deep violet #1e1b4b → meditation teal #2dd4bf → binaural gold #f59e0b. Style: dark mystical flat vector, woven neural threads, no text. 16:9. -->
+
 python meditate.py list
 
 # Generate meditation audio file
@@ -240,13 +242,16 @@ sudo apt install ffmpeg
 
 **LLM not configured** — Meditation generates with placeholder script if no API key:
 ```bash
-export OPENAI_API_KEY="your-key"
-export OPENAI_BASE_URL="https://api.openai.com/v1"  # or any OpenAI-compatible API
+# Set your OpenAI-compatible API key (optional — without one a placeholder
+# script is generated)
+export OPENAI_BASE_URL="https://api.openai.com/v1"
 ```
 
 ---
 
-Developed by [Ishan Parihar](https://github.com/ishanparihar)---
+Developed by [Ishan Parihar](https://github.com/ishanparihar)
+
+---
 
 ## ☕ Support & Sponsorship
 
