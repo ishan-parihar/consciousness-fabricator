@@ -51,3 +51,6 @@ __pycache__/
 *.pyd
 .Python
 EOF
+.benchmarks/
+.pytest_cache/
+.ruff_cache/
