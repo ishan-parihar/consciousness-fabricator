@@ -11,6 +11,8 @@
 
 > **The Problem**: Generating guided meditation audio usually requires either expensive human voice actors or robotic TTS that lacks the intimate, nuanced delivery needed for deep relaxation. The challenge was to create a system that could not only clone a warm, human-like voice but also synchronize it with psycho-acoustic elements like binaural beats and ambient music to induce specific mental states.
 
+- [Page index](docs/PAGE-INDEX.md) — every active doc and the question it owns.
+
 ## Engineering Highlights
 
 ### Voice-Cloned Narrator with Qwen-TTS
